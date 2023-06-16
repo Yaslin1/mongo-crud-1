@@ -1,0 +1,37 @@
+    [
+        {
+            "id": 1,
+            "name": "Broccoli",
+            "price": 2.99,
+            "type": "produce",
+            "isBought": false
+        },
+        {
+            "id": 1,
+            "name": "Carrot",
+            "price": 3.39,
+            "type": "produce",
+            "isBought": true
+        },
+        {
+            "id": 1,
+            "name": "Dog Food",
+            "price": 20.49,
+            "type": "pet",
+            "isBought": true
+        },
+        {
+            "id": 1,
+            "name": "Nails",
+            "price": 1.28,
+            "type": "construction",
+            "isBought": true
+        },
+        {
+            "id": 1,
+            "name": "Hammar",
+            "price": 4.15,
+            "type": "construction",
+            "isBought": true
+        }
+    ]
